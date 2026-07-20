@@ -192,18 +192,6 @@ OmniNote AI implements a continuous directory watcher that hooks into files. Whe
   
   [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ASingh2425&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
----
-
-### 11. GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ASingh2425&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ### 12. Contribution Activity Graph
