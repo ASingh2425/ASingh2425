@@ -182,7 +182,7 @@ OmniNote AI implements a continuous directory watcher that hooks into files. Whe
 
 <div align="center">
   
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=ASingh2425&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Github Stats](https://github-stats-extended.vercel.app/api?username=ASingh2425&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
   <br/>
   
@@ -190,7 +190,7 @@ OmniNote AI implements a continuous directory watcher that hooks into files. Whe
   
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASingh2425&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ASingh2425&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
